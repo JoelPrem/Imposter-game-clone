@@ -1,0 +1,5 @@
+{
+  "Food": ["Pizza", "Burger", "Sushi", "Taco"],
+  "Animals": ["Lion", "Tiger", "Elephant", "Shark"],
+  "School": ["Teacher", "Principal", "Student", "Coach"]
+}
